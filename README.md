@@ -1,6 +1,5 @@
-- 👋 Hello, I’m Suyash.
-- 👀 I’m interested in programming and exploring new things.
-- 🌱 I’m currently learning Java Programming.
+- 👋 Hello, I’m Suyash. 
+- 👀 An enthusiastic engineering graduate having interst in the computer technology.
 - 📫 mail@ : suyashsaykar@yahoo.com
 
 <!---
