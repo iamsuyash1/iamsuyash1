@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi there 👋
 
-I'm a Software Development Engineer based in Pune, India, with a solid foundation in C++ and experience across various programming languages and technologies. I’m passionate about solving problems and contributing to impactful projects.
+I'm a Software Development Engineer based in Pune, India, with a solid foundation in C/C++ and experience across various programming languages and technologies. I’m passionate about solving problems and contributing to impactful projects.
 
 ## 🚀 What I Do
 
